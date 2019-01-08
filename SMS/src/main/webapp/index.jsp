@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	texting....2
-	testingaklsdjfa
+	testa
 </body>
 </html>
